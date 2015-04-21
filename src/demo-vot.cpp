@@ -4,8 +4,8 @@
  *  Desc   : Example of VOT integration for C++ tracker.
  */ 
 
-#include "vot.hpp"
-#include "color_tracker.hpp"
+#include "ColorTracker/vot.hpp"
+#include "ColorTracker/color_tracker.hpp"
 
 
 using namespace cv;

@@ -31,7 +31,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
 
-#include "color_tracker_parameters.hpp"
+#include "ColorTracker/color_tracker_parameters.hpp"
 
 using namespace cv::colortracker;
 
